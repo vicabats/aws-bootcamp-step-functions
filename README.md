@@ -61,3 +61,9 @@ Consolidar os conhecimentos sobre **criação e execução de workflows automati
     }
   }
 }
+
+## 4. Aprendizados
+- A definição visual dos estados facilita muito o entendimento de fluxos complexos.
+- Step Functions reduzem o acoplamento entre Lambdas.
+- Logs integrados com o CloudWatch ajudam a depurar execuções com falhas.
+- Ótimo recurso para pipelines automatizados e ETLs serverless.
